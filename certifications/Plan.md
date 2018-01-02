@@ -21,7 +21,7 @@ Plateform | Montly  Subcription | Annual Subcription
 |4| [AWS AWS Certified SysOps Administrator]| 14H | 145|  2 Years | No  | Not Strated  | LinuxAcademy<br>Acloud.guru    |
 |5| [Red Hat Certified System Administrator] | 40H | 515|  3 Years | No | Not Started | LinuxAcademy |
 |6| [Red Hat Certified Engineer] | 40H | 515|  3 Years | No | Not Started | LinuxAcademy |
-|7| [LPI Linux Essentials]| 15H | 115|  Lifetime | No  | Not Started | LinuxAcademy |
+|7| ~~[LPI Linux Essentials]~~(cancelled)| 15H | 115|  Lifetime | No  | Not Started | LinuxAcademy |
 |8| [LPIC-OT 701: DevOps Tools Eng.]<br>[LPIC-1: System Administrator]| 15H each | 480|  5 Years each | No | Not Started | LinuxAcademy |
 |9| [Red Hat Certificate of Expertise in Ansible Automation] | 35H | 600|  3 Years | No | Not Started | LinuxAcademy |
 |10| [Linux Foundation Certified System Administrator (LFCS)] | 35H | 300|  2 Years | Yes | Not Started | LinuxAcademy |
@@ -48,7 +48,7 @@ Order | Certification | Milestone | Prep Period | Pratice Period | Exam Date |
 Order | Certification | Milestone | Prep Period | Pratice Period | Exam Date |
 ----| ---- | ---- | ---- | ---- | ---- |
 6 | [Certified Kubernetes Administrator] |  | End  date | Pratice Period | Exam Date |
-7 | [LPI Linux Essentials] |  | End  date | Pratice Period | Exam Date |
+7 | ~~[LPI Linux Essentials]~~(cancelled) |  | End  date | Pratice Period | Exam Date |
 8 | [LPIC-OT 701: DevOps Tools Eng.]  |  | End  date | Pratice Period | Exam Date |
 9 | [LPIC-1: System Administrator]  |  | End  date | Pratice Period | Exam Date |
 
