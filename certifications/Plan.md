@@ -33,9 +33,9 @@ Plateform | Montly  Subcription | Annual Subcription
 |3| [AWS Certified Solution Architect] | 20H | 145|  2 Years | No  | :soon:  | LinuxAcademy<br>Acloud.guru    |
 |4| [AWS AWS Certified SysOps Administrator]| 14H | 145|  2 Years | No  | :soon:  | LinuxAcademy<br>Acloud.guru    |
 |8| [LPIC-1: System Administrator] | 15H each | 480|  5 Years each | No | :white_check_mark: | LinuxAcademy |
-|12| [TOGAF Foundation] | - | - |  -  | Yes | :clock1: | LinuxAcademy |
-|13| [TOGAF Certififed] | - | - |  -  | Yes | :clock1: | LinuxAcademy |
-|13| [AWS Certified Solution professional] | - | - |  2 years  | Yes | :clock1: | LinuxAcademy |
+|12| [TOGAF Foundation] | - | - |  -  | Yes | :new: | LinuxAcademy |
+|13| [TOGAF Certififed] | - | - |  -  | Yes | :new: | LinuxAcademy |
+|13| [AWS Certified Solution professional] | - | - |  2 years  | Yes | :new: | LinuxAcademy |
 
 <br>
 
