@@ -31,7 +31,7 @@ Plateform | Montly  Subcription | Annual Subcription
 |--|------------|-----|----------|----------| --------------|---------| ---------------- |
 |2| [Nagios Certified Professional] | 6 H  | 170  |  2 Years  | No| Ready  | Linux Academy    |
 |3| [AWS Certified Solution Architect] | 20H | 145|  2 Years | No  | :white_check_mark:  | LinuxAcademy<br>Acloud.guru    |
-|4| [AWS AWS Certified SysOps Administrator]| 14H | 145|  2 Years | No  | :soon:  | LinuxAcademy<br>Acloud.guru    |
+|4| [AWS AWS Certified SysOps Administrator]| 14H | 145|  2 Years | No  | :white_check_mark:  | LinuxAcademy<br>Acloud.guru    |
 |8| [LPIC-1: System Administrator] | 15H each | 480|  5 Years each | No | :white_check_mark: | LinuxAcademy |
 |12| [TOGAF Foundation] | - | - |  -  | Yes | :new: | LinuxAcademy |
 |13| [TOGAF Certififed] | - | - |  -  | Yes | :new: | LinuxAcademy |
@@ -59,7 +59,7 @@ Order | Certification | Status | Prep Period | Pratice Period | Exam Date |
 Order | Certification | Status | Prep Period | Pratice Period | Exam Date |
 ----| ---- | ---- | ---- | ---- | ---- |
 2 | [AWS Certified Solution Architect] | :white_check_mark: | End  date | Pratice Period | Exam Date |
-2 | [AWS Certified Sys Admin] | :soon: | End  date | Pratice Period | Exam Date |
+2 | [AWS Certified Sys Admin] | :white_check_mark: | End  date | Pratice Period | Exam Date |
 1 | [Nagios Certified Professional] | :soon:  | End  date | Pratice Period | Exam Date |
 
 
