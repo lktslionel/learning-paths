@@ -20,6 +20,9 @@ learning-paths/
     linux/
     git-ci-cd/
     cloud/
+  digital-twins/
+    digital-twins-roomplan/
+    digital-twins-computer-vision/
 ```
 
 Each topic contains:
